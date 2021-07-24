@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+刘 为  LIU WEI
+机测控 91  2193712647
+申请转入专业：软件工程
 
-You can use the [editor on GitHub](https://github.com/dickYAO-HUI/liuwei.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+个人经历：
+•	机械大类排名 323 （前 30%）
+•	大学计算机基础课程 89 分 算法设计与问题求解 94分
+•	大一曾获得校级三等奖学金
+•	现担任校级社团网管协会 运维二部 部长一职
+•	高中时曾获山东省 WER 机器人比赛一等奖，省物理竞赛三等奖
+•	优秀共青团员
+个人对软件工程专业的认识： 
+程是一门面向应用的科学，是一门软件工程是研究和应 用如何以系统性的、规范化的、可定量的过程化方法去开发和维护 软件，以及如何把经过时间考验而证明正确的管理技术和当前能够 得到的最好的技术方法结合起来的学科。 
+学习软件工程，不仅仅能够掌握软件的开发技术，还可以学习 管理能力，掌握如何通过团队协作，完成应用软件的开发，从而造 福人类社会。
 
-### Markdown
+转入贵专业的理由：
+      本人对计算机兴趣深厚，大一入校时加入了校网管协会。苦于 机械大类，无法系统性的学习计算机软件方面的知识，在计算机基 础课程的学习之中，我有了对硬件层面上的计算机的基本认识，同 时激发了我对于软件工程的向往。
+      大二发现微机原理与接口一课被砍，同时经过大二的学习发现自己对自己专业的专业课感到迷茫，于是再生转专业的想法。
+如果我能成功的转入贵专业，我将努力学习，补修大一时所未 学习的课程，完善自身的知识结构体系，完成贵专业的培养方案。 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+软件工[刘 为  LIU WEI.docx](https://github.com/dickYAO-HUI/liuwei.github.io/files/6872448/LIU.WEI.docx)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dickYAO-HUI/liuwei.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
